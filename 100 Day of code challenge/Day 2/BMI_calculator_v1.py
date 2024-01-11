@@ -1,5 +1,5 @@
 #Exercise 2
-#BMS Calculator
+#BMI Calculator
 
 #height
 height = float(input("enter your height in m: "))
